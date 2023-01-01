@@ -3,6 +3,7 @@
 ### Learning Goals:
 
 The aim of this lab is to understand how can we navigate into different pages, using routers.
+
 ***Do not forget to use the following command: `npm install react-router-dom` inorder to use router's.***
 
 ### Steps to follow:
