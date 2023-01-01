@@ -3,10 +3,11 @@
 ### Learning Goals:
 
 The aim of this lab is to understand how can we navigate into different pages, using routers.
+***Do not forget to use the following command: `npm install react-router-dom` inorder to use router's.***
 
 ### Steps to follow:
 
-1. create a new react project -> using the following command: `npm create-react-app router-lab`.
+1. create a new react project -> using the following command: `npx create-react-app router-lab`.
 2. You have to make a navbar as shown below:
 
 ![](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/router.gif)
@@ -22,6 +23,5 @@ You have to achieve the same, using router's.
 **NOTE:** Keep in mind the structure of your application as well. Try to create different components for each page.
 For eg: you can create a component as `About.js` --> where you write the logic for the about page, and similarly for other pages. --> this will help you to organize your application structure.
 
-***Do not forget to use the following command: `npm install react-router-dom` inorder to use router's.***
 
 Happy Coding ❤️!
