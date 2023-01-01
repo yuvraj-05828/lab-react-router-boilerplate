@@ -4,6 +4,9 @@
 
 The aim of this lab is to understand how can we navigate into different pages, using routers.
 
+**NOTE:** Keep in mind the structure of your application as well. Try to create different components for each page.
+For eg: you can create a component as `About.js` --> where you write the logic for the about page, and similarly for other pages. --> this will help you to organize your application structure.
+
 ***Do not forget to use the following command: `npm install react-router-dom` inorder to use router's.***
 
 ### Steps to follow:
@@ -20,9 +23,5 @@ As you can see, that ->
 3. If we click on the name of the site (Kalvium) --> we are directed to the Home page.
 
 You have to achieve the same, using router's.
-
-**NOTE:** Keep in mind the structure of your application as well. Try to create different components for each page.
-For eg: you can create a component as `About.js` --> where you write the logic for the about page, and similarly for other pages. --> this will help you to organize your application structure.
-
 
 Happy Coding ❤️!
